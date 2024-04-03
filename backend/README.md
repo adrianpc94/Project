@@ -1,0 +1,1 @@
+# BASE_URL in renderUsers.js file needs to point to the server
